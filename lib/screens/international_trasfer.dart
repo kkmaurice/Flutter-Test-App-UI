@@ -9,7 +9,7 @@ class InternationalTransfer extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: const Color(0xFFE0F7FE),
+        //backgroundColor: const Color(0xFFE0F7FE),
         body: SingleChildScrollView(
           physics: const BouncingScrollPhysics(),
           child: Padding(
